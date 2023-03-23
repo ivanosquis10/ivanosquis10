@@ -31,7 +31,7 @@ const Ivanosquis10 = {
 Aquí mis redes sociales❤️
 
 [![Twitter Badge](https://img.shields.io/badge/Mi_Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ivanosquis13)
-[![Portfolio Badge](https://img.shields.io/badge/Mi_Twitter-purple?style=for-the-badge&logo=twitter&logoColor=white)](https://portfolio-ivanosquis-iv.vercel.app/)
+[![Portfolio Badge](http://img.shields.io/badge/Portfolio?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-ivanosquis-iv.vercel.app/)
   
 </div>
 

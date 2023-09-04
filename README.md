@@ -10,10 +10,10 @@ Mi mood actualmente es desarrollar proyectos, así que si te gustan, regalame un
 ```javascript
 const Ivanosquis10 = {
    pronouns: "he" | "him",
-   code: [Javascript, HTML, CSS],
+   code: [Javascript | Typescript, HTML, CSS],
    technologies: {
       frontEnd: {
-         js: ["React", "NextJS"],
+         js: ["React", "NextJS", "TSX"],
          css: ["TailwindCSS", "SaaS"]
       },
       backEnd: {

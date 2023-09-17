@@ -28,7 +28,8 @@ const Ivanosquis10 = {
 
 ## 📫 How to reach me...
 <a href="https://www.linkedin.com/in/iv%C3%A1n-rodr%C3%ADguez-web/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ivan%20Rodriguez-blue?style=flat-square&logo=linkedin"></a>
-<a href="ivanosquis10.12@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-ivanosquis10.12@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p><img alt="Email" src="https://img.shields.io/badge/Gmail-ivanosquis10.12@gmail.com-blue?style=flat-square&logo=gmail"></p>
 <a href="https://twitter.com/ivanosquis13"><img alt="twitter or X" src="https://img.shields.io/badge/Twitter-ivanosquis10.12@gmail.com-blue?style=flat-square&logo=X"></a>
+
 
 ![GitHub Activity](https://github-readme-stats.vercel.app/api?username=ivanosquis10&show_icons=true)
